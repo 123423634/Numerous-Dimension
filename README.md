@@ -1,5 +1,30 @@
 ----------------- Numerous-Dimension ----------------- 
 
+
+====< Server Update v0.0.5 >====
+* General
+- Server First Official Bot has been made
+- Staffs, Members, etc permissions has been change
+- 💼┃roles-equip is on lockdown until further notice
+- New Category "Hobbies"
+- Fixed View All Changelogs website
+
+* Voice Channels
+- Added 🌴┃Lobby #1 (10 users max)
+- Added 🌴┃Lobby #2 (15 users max)
+
+* Server Function
+- Discord Moderation for this server will be using @God of Dimensions
+- Moderators might not use the Bot yet
+- Administrators & Developers are able to use the bots
+
+* Server Next Update SPOILER
+- Ranking will be added once clan is open
+- Bot coding will change
+- New channels for hobbies
+- Dank Memer might be kicked
+
+
 ====< Server Update v0.0.4 >====
 * General
 - Added a raw text website for server updates list
